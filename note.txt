@@ -1,0 +1,7 @@
+btl -> tổng hợp các bài lab
+đánh giá dựa trên khối lượng công việc 
+làm trên thiết bị 
+
+dl : 1 tuần sau thi cuối kì 
+ý tưởng - làm cái gì - làm trên core iot 
+- 1 số solution mẫu trên thingsboard - energy monitoring
